@@ -1,4 +1,4 @@
-# Bibliography References
+# Bibliography References for the BCR-analysis lecture of the Patient Immunomonitoring course at ITM Antwerp
 
 1. Babrak, L., Marquez, S., Busse, C. E., Lees, W. D., Miho, E., Ohlin, M., Rosenfeld, A. M., Stervbo, U., Watson, C. T., & Schramm, C. A. (2022). Adaptive Immune Receptor Repertoire (AIRR) Community Guide to TR and IG Gene Annotation. In Methods in Molecular Biology (Vol. 2453, pp. 279–296). Methods Mol Biol. https://doi.org/10.1007/978-1-0716-2115-8_16
 
