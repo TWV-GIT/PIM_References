@@ -75,10 +75,3 @@ Soto, C., Bombardi, R. G., Branchizio, A., Kose, N., Matta, P., Sevy, A. M., Sin
 Trück, J., Eugster, A., Barennes, P., Tipton, C. M., Luning Prak, E. T., Bagnara, D., Soto, C., Sherkow, J. S., Payne, A. S., Lefranc, M. P., Farmer, A., Bostick, M., & Mariotti-Ferrandiz, E. (2021). **Biological controls for standardization and interpretation of adaptive immune receptor repertoire profiling.** ELife, 10(V), 1–18. https://doi.org/10.7554/eLife.66274
 
 Vander Heiden, J. A., Marquez, S., Marthandan, N., Bukhari, S. A. C., Busse, C. E., Corrie, B., Hershberg, U., Kleinstein, S. H., Matsen IV, F. A., Ralph, D. K., Rosenfeld, A. M., Schramm, C. A., Christley, S., & Laserson, U. (2018). **AIRR Community Standardized Representations for Annotated Immune Repertoires.** Frontiers in Immunology, 9, 2206. https://doi.org/10.3389/fimmu.2018.02206
-
-
-
-
-
-40. Vander Heiden, J. A., Marquez, S., Marthandan, N., Bukhari, S. A. C., Busse, C. E., Corrie, B., Hershberg, U., Kleinstein, S. H., Matsen IV, F. A., Ralph, D. K., Rosenfeld, A. M., Schramm, C. A., Christley, S., & Laserson, U. (2018). AIRR Community Standardized Representations for Annotated Immune Repertoires. Frontiers in Immunology, 9, 2206. https://doi.org/10.3389/fimmu.2018.02206
-
